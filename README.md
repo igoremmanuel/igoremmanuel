@@ -1,5 +1,9 @@
-### Hi there 👋
+### Olá! 👋
 
+Me chamo Igor Emmanuel, sou estudante de desenvolvimento de softwares com foco em back-end. 
+
+Para me encontrar:
+[LinkedIn](https://www.linkedin.com/in/igor-emmanuel/)
 <!--
 **igoremmanuel/igoremmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
